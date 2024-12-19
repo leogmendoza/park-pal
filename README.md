@@ -1,3 +1,1 @@
-Our Fall 2024 ECE 198 Project, ParkPal!
-
-we got a 93 :-)
+Collaborated with fellow EEs on the design of Park Pal for the Project Studio course
