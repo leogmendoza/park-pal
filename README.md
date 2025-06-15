@@ -13,3 +13,11 @@ Me and a couple EEs worked on helping bad parkers become not-as-bad parkers!
 
 ### Setup
 <img src="public/demo_day_setup.png" width="60%">
+
+## Test Pics
+
+### LED Matrix
+<img src="public/led_matrix_test.png" width="60%">
+
+## Ultrasonic Sensor
+<img src="public/sensor_test.png" width="60%">
