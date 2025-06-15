@@ -22,6 +22,6 @@ This was a lot more painful to than you'd think..
 <img src="public/led_matrix_test.gif" width="60%">
 
 ### Ultrasonic Sensor
-I read more of its datasheet than all of COMMST 192..  
+I read more of the HC-SR04's datasheet than all of COMMST 192 lol  
 
 <img src="public/sensor_test.gif" width="60%">
