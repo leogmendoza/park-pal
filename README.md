@@ -17,7 +17,7 @@ Me and a couple EEs worked on helping bad parkers become not-as-bad parkers!
 ## Test Pics
 
 ### LED Matrix
-<img src="public/led_matrix_test.png" width="60%">
+<img src="public/led_matrix_test.gif" width="60%">
 
 ## Ultrasonic Sensor
-<img src="public/sensor_test.png" width="60%">
+<img src="public/sensor_test.gif" width="60%">
