@@ -16,7 +16,7 @@ Me and a couple EEs worked on helping bad parkers become not-as-bad parkers!
 
 ## Test Pics
 
-### LED Matrix
+### LED Matrix (multiplexed with shift registers!)
 <img src="public/led_matrix_test.gif" width="60%">
 
 ## Ultrasonic Sensor
