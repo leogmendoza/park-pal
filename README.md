@@ -12,4 +12,4 @@ Me and a couple EEs worked on helping bad parkers become not-as-bad parkers!
 <img src="public/demo_day_led.png" width="60%">
 
 ### Setup
-<img src=public/demo_day_setup.png" width="60%">
+<img src="public/demo_day_setup.png" width="60%">
