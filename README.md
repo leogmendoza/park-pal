@@ -17,7 +17,7 @@ Me and a couple EEs worked on helping bad parkers become not-as-bad parkers!
 ## Test Pics
 
 ### LED Matrix (multiplexed with shift registers)
-The pair of 74HC595s were a lot more painful to implement than you'd think..  
+This was a lot more painful to implement than you'd think..  
 
 <img src="public/led_matrix_test.gif" width="60%">
 
