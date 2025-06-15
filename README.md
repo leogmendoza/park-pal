@@ -4,12 +4,12 @@
 Me and a couple EEs worked on helping bad parkers become not-as-bad parkers!
 
 ## Schematic
-![KiCad Schematic](public/park_pal_schematic.png)
+<img src="public/park_pal_schematic.png" width="60%">
 
 ## Demo Pics
 
 ### Indicator Lights
-![LED Indicator](public/demo_day_led.png)
+<img src="public/demo_day_led.png" width="60%">
 
 ### Setup
-![LED Indicator](public/demo_day_setup.png)
+<img src=public/demo_day_setup.png" width="60%">
