@@ -1,4 +1,4 @@
-# Park Pal: Parking Practice Assistant
+# Park Pal: Parking Guidance System
 
 ## Overview
 Me and a couple EEs worked on helping bad parkers become _not-as-bad_ parkers! :D
