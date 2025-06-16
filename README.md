@@ -1,7 +1,7 @@
 # Park Pal: Parking Practice Assistant
 
 ## Overview
-Me and a couple EEs worked on helping bad parkers become not-as-bad parkers!
+Me and a couple EEs worked on helping bad parkers become _not-as-bad_ parkers! :D
 
 ## Schematic
 <img src="public/park_pal_schematic.png" width="60%">
